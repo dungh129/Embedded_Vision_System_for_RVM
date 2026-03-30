@@ -143,7 +143,7 @@ technical performance with real-world usability and operational constraints.
 
 ## Copyright and Attribution
 
-© 2026 Dung H. All rights reserved.
+© 2026 Dung H.
 
-This interview content is part of a Master’s thesis project and may not be reused
-or redistributed without permission from the author.
+This work is provided for academic and educational purposes.
+Please provide attribution if referenced or used.
