@@ -1,4 +1,4 @@
-# Embedded Vision Bottle Classification for Recycling
+# Embedded Vision System for Reverse Vending Machine
 
 This repository presents an embedded computer vision system for recyclable bottle classification using deep learning and Raspberry Pi deployment.
 
